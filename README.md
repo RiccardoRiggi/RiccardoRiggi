@@ -1,4 +1,4 @@
-### Riccardo Riggi - Software Developer & IT Consultant
+## Riccardo Riggi - Software Developer & IT Consultant
 [![Logo LinkedIn](https://cdn3.iconfinder.com/data/icons/social-media-chamfered-corner/154/linkedin-48.png)](https://www.linkedin.com/in/riccardoriggi/) [![Logo LinkedIn](https://cdn3.iconfinder.com/data/icons/social-media-chamfered-corner/154/facebook-48.png)](https://www.facebook.com/riccardo.riggi.52) [![Logo LinkedIn](https://cdn3.iconfinder.com/data/icons/social-media-chamfered-corner/154/instagram-48.png)](https://www.instagram.com/_riccardoriggi_/) [![Logo LinkedIn](https://cdn3.iconfinder.com/data/icons/social-media-chamfered-corner/154/wordpress-48.png)](https://www.riccardoriggi.it/)  [![Logo LinkedIn](https://cdn3.iconfinder.com/data/icons/social-media-chamfered-corner/154/blogger-48.png)](https://www.riccardoriggi.it/blog/)  
 
 ---
