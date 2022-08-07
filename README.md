@@ -5,6 +5,7 @@
 ### Alcuni dei miei progetti personali
 |Titolo|Descrizione del progetto|
 |--|--|
+|[Checklist Digitale](https://github.com/RiccardoRiggi/checklist-digitale-fe)|Web Application realizzata in React che consente di gestire la compilazione e l'archiviazione delle checklist delle ambulanze.|
 |[Dashboard Covid Italia](https://github.com/RiccardoRiggi/dashboard-covid-italia)|Web Application realizzata in Javascript che consente di visionare dati e statistiche relative al coronavirus in Italia, suddivisi per regioni e province.|
 |[Covid 19 - Report ultime 24 ore](https://github.com/RiccardoRiggi/covid-19-ultime-24-ore)|Applicazione mobile multi piattaforma per poter monitorare i dati delle ultime 24 ore relativi al Covid-19 in Italia.|
 |[Parametri Vitali](https://github.com/RiccardoRiggi/parametri-vitali)|Applicazione mobile multi-piattaforma sviluppata in Flutter e Dart che permette di visionare in qualunque momento i valori di riferimento dei parametri vitali secondo le linee guida del 118 di Regione Liguria.|
