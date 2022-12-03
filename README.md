@@ -5,6 +5,7 @@
 ### Alcuni dei miei progetti personali
 |Titolo|Descrizione del progetto|
 |--|--|
+|[Goose Form Manager](https://github.com/RiccardoRiggi/gooseform-manager)|Goose Form Manager è un gestionale sviluppato in React che, mediante la sua interfaccia utente intuitiva, aiuta nella generazione dei form e degli oggetti JSON compatibili con il motore di Goose Form.|
 |[Goose Form](https://github.com/RiccardoRiggi/gooseform)|Goose Form è un generatore dinamico di form realizzato in React. Mediante un oggetto JSON in ingresso opportunamente valorizzato, restituirà in uscita un form con tutti i campi richiesti, controlli di validazione e regole di visibilità.|
 |[Checklist Digitale](https://github.com/RiccardoRiggi/checklist-digitale-fe)|Web Application realizzata in React che consente di gestire la compilazione e l'archiviazione delle checklist delle ambulanze.|
 |[Dashboard Covid Italia](https://github.com/RiccardoRiggi/dashboard-covid-italia)|Web Application realizzata in Javascript che consente di visionare dati e statistiche relative al coronavirus in Italia, suddivisi per regioni e province.|
