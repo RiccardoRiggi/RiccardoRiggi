@@ -5,6 +5,8 @@
 ### Alcuni dei miei progetti personali
 |Titolo|Descrizione del progetto|
 |--|--|
+|[Earthquake Monitor
+](https://github.com/RiccardoRiggi/earthquake-monitor-fe)|Earthquake Monitor è una Web Application basata sul progetto Otter Guardian che consente di visualizzare, filtrare e ricevere notifiche in tempo reale sugli eventi sismici avvenuti in Italia.|
 |[Otter Guardian Authenticator App](https://github.com/RiccardoRiggi/otter-guardian-authenticator-app)|Otter Guardian Authenticator è una App realizzata in React Native che si occupa di gestire l'autenticazione a due fattori per il progetto Otter Guardian|
 |[Otter Guardian](https://github.com/RiccardoRiggi/otter-guardian-fe)|Otter Guardian è una Web Application Boilerplate realizzata in React e PHP che offre diverse funzionalità come la gestione di autenticazioni, autorizzazioni, profilazioni e notifiche.|
 |[Earthquake Italy](https://github.com/RiccardoRiggi/earthquake-italy-fe)|Earthquake Italy è una dashboard realizzata in React, Quarkus e MongoDB, che consente di visualizzare e filtrare gli eventi sismici avvenuti in Italia.|
